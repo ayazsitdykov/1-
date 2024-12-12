@@ -1,4 +1,4 @@
 { "Hello",
-"Good Bie"
- 
+"Good By"
+ "Ok"
 }
