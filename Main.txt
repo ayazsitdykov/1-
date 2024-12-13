@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 { "Hello",
-"Good"
+"no Good"
 =======
 { "Hello friend",
 "Good bye"
