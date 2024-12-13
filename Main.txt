@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 { "Hello",
 "Good"
+=======
+{ "Hello friend",
+"Good bye"
+>>>>>>> 0876ccf4d1d4df12b071f235825c36bef0332e3c
 777
