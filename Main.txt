@@ -1,5 +1,3 @@
 { "Hello friend",
 "Good"
- "Ok"
-"777"
-}
+777
